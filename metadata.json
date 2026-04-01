@@ -1,0 +1,8 @@
+{
+  "name": "Jordan Bus Fleet Management",
+  "description": "A real-time transport management system for college bus fleets in Jordan, featuring live tracking, QR verification, and offline-first driver logs.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
